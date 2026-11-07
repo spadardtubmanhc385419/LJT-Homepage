@@ -28,5 +28,5 @@ jobs:
           find _site -maxdepth 2 -type f | sort
           echo "----- ABOUT PAGE -----"
           cat _site/index.html
-          echo "----- PUBLICATIONS PAGE -----
+          echo "----- PUBLICATIONS PAGE -----"
           cat _site/publications/index.html
